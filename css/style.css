@@ -41,6 +41,9 @@ body{
     opacity: 1;
     font-size: 5rem;
 }
+@media (min-width: 767px) {                  
+    .htx{ white-space: nowrap;}
+  }
 .ptx{
     font-family: bSCLI;
     font-size: 150%;
