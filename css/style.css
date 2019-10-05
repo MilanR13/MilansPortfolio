@@ -1,0 +1,349 @@
+body{
+    background-color: #F6F6F6;
+}
+
+@font-face{
+    font-family: bCL;
+    src: url(../fonts/BarlowCondensed-Light.ttf);
+}
+@font-face{
+    font-family: bCM;
+    src: url(../fonts/BarlowCondensed-Medium.ttf);
+}
+@font-face{
+    font-family: bCSB;
+    src: url(../fonts/BarlowCondensed-SemiBold.ttf);
+}
+@font-face{
+    font-family: bSCLI;
+    src: url(../fonts/BarlowSemiCondensed-LightItalic.ttf);
+}
+
+.containerb{
+    width: 80%;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.headerb{
+    height: 90%;
+    background: #93D0D1 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+}
+.htx{
+    padding-top: 20%;
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: left;
+    font-family: bCL;
+    color: #FFFFFF;
+    opacity: 1;
+    font-size: 5.5rem;
+}
+.ptx{
+    font-family: bSCLI;
+    font-size: 150%;
+    text-align: justify;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.but{
+    border: 5px solid #FFFFFF;
+    opacity: 1;
+    width: 15rem;
+    height: 5rem;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    margin-bottom: 10%;
+}
+.btx{
+    text-align: center;
+    font-family: bCM;
+    letter-spacing: 0;
+    font-size: 2.5rem;
+    color: #FFFFFF;
+    opacity: 1;
+    margin: 0.2rem;
+
+}
+
+
+.imgme{
+    max-width: 110%;
+    margin-left:auto;
+   margin-right:auto;
+   display:block;
+   margin-top: 1%;
+   margin-bottom: 1%;
+
+}
+.h2c{
+    margin-left:auto;
+   margin-right:auto;
+   display:block;
+
+}
+.h2tx{
+    text-align: center;
+    font-family: bCSB;
+    letter-spacing: 0;
+    font-size: 2.5rem;
+    color: #000000;
+    opacity: 1;
+    margin: 0.2rem;
+
+}
+
+.footerb{
+    margin-top: -5%;
+    height: 90%;
+    background: #F7B92C 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+}
+/*
+    padding: 2%;
+    margin-bottom: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    */
+.h3tx{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+    font-family: bCM;
+    color: #FFFFFF;
+    opacity: 1;
+    font-size: 250%;
+}
+.h4tx{
+    text-align: center;
+    font-family: bCSB;
+    color: #FFFFFF;
+    opacity: 1;
+    font-size: 200%;
+}
+.h5tx{
+    text-align: center;
+    font-family: bCL;
+    color: #FFFFFF;
+    opacity: 1;
+    font-size: 200%;
+}
+.ico{
+    width: 100%;
+}
+.icoc{
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    margin-bottom: 1%;
+}
+
+/*
+/////////////////////////////////////////////////////////////
+ABOUT ME
+/////////////////////////////////////////////////////////////
+*/
+.yellowb{
+    height: 90%;
+    min-height: 35rem;
+    background: #F7B92C 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+}
+
+.blueb{
+    height: 90%;
+    min-height: 30rem;
+    background: #93D0D1 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+}
+
+.mico{
+    max-height: 10rem;
+}
+.micoc{
+    margin-top: 4%;
+    margin-bottom: 2%;
+}
+
+.wbox{
+    
+    width: 90%;
+    min-height: 10rem;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    margin-bottom: 2rem;
+}
+
+.wboxs{
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    width:5rem;
+    height:5rem;
+    margin: 1.5rem;
+}
+
+.bstx{
+    text-align: center;
+    font-family: bCSB;
+    letter-spacing: 0;
+    font-size: 2.5rem;
+    color: #FFFFFF;
+    opacity: 1;
+    margin:-1rem;
+}
+
+.bsp{
+    text-align: center;
+    font-family: bCSB;
+    letter-spacing: 0;
+    font-size: 1.5rem;
+    color: #000000;
+    opacity: 1;
+    margin: 1rem;
+    margin-top:1.5rem;
+}
+
+.bspa{
+    text-align: center;
+    font-family: bCSB;
+    letter-spacing: 0;
+    font-size: 2rem;
+    color: #000000;
+    opacity: 1;
+    margin: 1rem;
+
+}
+.wboxc{
+    width: 90%;
+    min-height: 5rem;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+}
+.cbc{
+    margin:1rem;
+}
+.bctx{
+    text-align: center;
+    font-family: bCSB;
+    letter-spacing: 0;
+    font-size: 2.5rem;
+    color: #FFFFFF;
+    opacity: 1;
+    margin-top:1.5rem;
+    margin-bottom:0;
+}
+
+.bcp{
+    text-align: left;
+    font-family: bCSB;
+    letter-spacing: 0;
+    font-size: 1.4rem;
+    color: #000000;
+    opacity: 1;
+    margin-top:0.5rem;
+    margin-left:0.5rem;
+    margin-bottom:-0.5rem;
+}
+
+.bcpi{
+    text-align: left;
+    font-family: bSCLI;
+    letter-spacing: 0;
+    font-size: 1.4rem;
+    color: #000000;
+    opacity: 1;
+    margin-left:0.5rem;
+}
+
+/*====================================Soft Skills text*/
+.wboxss{
+    width: 90%;
+    min-height: 14rem;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    margin-top:1.5rem;
+}
+.bsspi{
+    text-align: justify;
+    font-family: bSCLI;
+    letter-spacing: 0;
+    font-size: 1.3rem;
+    color: #000000;
+    opacity: 1;
+    margin:1rem;
+}
+.bssp{
+    text-align: left;
+    font-family: bCSB;
+    letter-spacing: 0;
+    font-size: 1.3rem;
+    color: #000000;
+    opacity: 1;
+    margin:1rem;
+}
+.bsspil{
+    text-align: left;
+    font-family: bSCLI;
+    letter-spacing: 0;
+    font-size: 1.3rem;
+    color: #000000;
+    opacity: 1;
+    margin:1rem;
+}
+
+/*====================================Organisational Management text*/
+.wboxom{
+    width: 90%;
+    min-height: 20rem;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    margin-top: 4rem;
+}
+.bompi{
+    text-align: justify;
+    font-family: bSCLI;
+    letter-spacing: 0;
+    font-size: 1.3rem;
+    color: #000000;
+    opacity: 1;
+    margin:1rem;
+}
+.bomp{
+    text-align: center;
+    font-family: bCSB;
+    letter-spacing: 0;
+    font-size: 1.6rem;
+    color: #000000;
+    opacity: 1;
+    margin:1rem;
+}
+.bompic{
+    text-align: center;
+    font-family: bSCLI;
+    letter-spacing: 0;
+    font-size: 1.3rem;
+    color: #000000;
+    opacity: 1;
+    margin:1rem;
+}
+
+.h6tx{
+    text-align: center;
+    font-family: bCSB;
+    letter-spacing: 0;
+    font-size: 2.5rem;
+    color: #000000;
+    opacity: 1;
+    margin: -1rem;
+
+}
