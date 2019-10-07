@@ -350,3 +350,72 @@ ABOUT ME
     margin: -1rem;
 
 }
+
+@media (max-width: 767px) {                  
+    .htx{
+        font-size: 4rem;
+    }  
+    .ptx{
+        font-size: 100%;
+    } 
+    .btx{
+        font-size: 2rem;
+    }    
+    .imgme{
+        max-width: 100%;
+    }
+    .h2tx{
+        font-size: 2rem;
+    }
+    .h3tx{
+        font-size: 200%;
+    }
+    .h4tx{
+        font-size: 150%;
+    }
+    .h5tx{
+        font-size: 150%;
+    }   
+.bstx{
+    font-size: 2rem;
+}
+.bctx{
+    font-size: 2rem;
+}
+.bcp{
+    font-size: 1rem;
+}
+.bcpi{
+    font-size: 1rem;
+}
+
+/*====================================Soft Skills text*/
+
+.bsspi{
+    font-size: 1rem;
+
+}
+.bssp{
+    font-size: 1rem;
+
+}
+.bsspil{
+    font-size: 1rem;
+}
+
+/*====================================Organisational Management text*/
+.bompi{
+    font-size: 1rem;
+
+}
+.bomp{
+    font-size: 1.3rem;
+}
+.bompic{
+    font-size: 1rem;
+}
+
+.h6tx{
+    font-size: 2rem;
+}
+}
